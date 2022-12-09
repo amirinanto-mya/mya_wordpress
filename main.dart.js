@@ -72143,7 +72143,7 @@ A.afy.prototype={
 $2(a,b){var s=null,r=this.a,q=t.Qh,p=A.ak(new A.ag(A.a([7,8,9,4,5,6,1,2,3,"a",0,"c"],t.f),new A.afq(r,a,new A.afz(r,b)),q),!0,q.i("bp.E"))
 q=A.ani(s,B.H8,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!1,s,s,s,s,s,s,s,s,s,s,s,s,A.arz(B.Ce,new A.afr(r,b),s),s,s,s,s)
 q=A.arF(s,A.hA(B.b.a7("*",r.a.length),s,s,s,this.b.a,s,s),q,!1,!1,!1,!1,s,s)
-return A.amx(A.hw(A.aty(p,0,0),400,300),B.O0,q)},
+return A.amx(A.hw(A.aty(p,0,0),400,240),B.O0,q)},
 $S:441}
 A.afz.prototype={
 $1(a){this.b.$1(new A.afs(this.a,a))},
@@ -72159,7 +72159,7 @@ if(p.k(a,"a"))s=new A.afl(r.b)
 else s=p.k(a,"c")?new A.afm(r.a,r.b):new A.afn(r.c,a)
 if(typeof a=="string")p=A.Hn(a==="a"?B.C4:B.nk,q)
 else p=A.hA(p.j(a),q,q,q,q,q,q)
-return new A.hv(100,100,A.ar8(!1,p,B.x,q,q,q,q,q,s,q),q)},
+return new A.hv(80,80,A.ar8(!1,p,B.x,q,q,q,q,q,s,q),q)},
 $S:442}
 A.afl.prototype={
 $0(){return A.Ir(this.a)},
