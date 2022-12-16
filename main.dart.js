@@ -72908,7 +72908,7 @@ q=B.OD
 q=A.jt(A.a78(A.a([i,A.a_5(new A.A3(r,h,B.Kj,B.wA,B.Jj,B.Jk,q,new A.agq(p),!0,o)),A.nL(o,A.HS(B.Cq,A.ac(a).ay.b),o,new A.agr(p),o)],g),B.cM,B.da),o,400)
 i=s.length
 h=o
-return A.qD(o,A.ati(new A.v7(q,!0,new A.Qv(o,o,1/0,56),o),A.WQ(A.a([A.a_5(new A.HJ(B.ye,new A.aas(new A.ags(s,m,l,k),i,!0,!0,!0,o),B.n1,B.a9,!1,p.w,o,h,!1,o,i,B.aw,B.If,o,B.ad,o)),new A.dh(B.Bx,A.hy("My-A Catalog Vers. 1.0.2",o,o,o,l.Q,o,o),o)],g),B.fI,B.d9,B.da),o),B.aw,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.agt(p),o,o,o,o,o,o)}}
+return A.qD(o,A.ati(new A.v7(q,!0,new A.Qv(o,o,1/0,56),o),A.WQ(A.a([A.a_5(new A.HJ(B.ye,new A.aas(new A.ags(s,m,l,k),i,!0,!0,!0,o),B.n1,B.a9,!1,p.w,o,h,!1,o,i,B.aw,B.If,o,B.ad,o)),new A.dh(B.Bx,A.hy("My-A Catalog Vers. 1.0.3",o,o,o,l.Q,o,o),o)],g),B.fI,B.d9,B.da),o),B.aw,!1,o,o,o,o,o,o,o,o,o,o,o,o,o,o,new A.agt(p),o,o,o,o,o,o)}}
 A.agu.prototype={
 $1(a){var s,r,q=this.a
 if(B.f.bG(A.bW(0,Date.now()-A.anB(q.z).a,0).a,6e7)>=5){A.iH().$1("refreshing")
@@ -73071,6 +73071,7 @@ o.gn_().w4(n)
 p=p.ghx()
 n=$.an0()
 p.gn_().w4(n)
+window.location.reload()
 return A.T(null,r)}})
 return A.U($async$$0,r)},
 $S:29}
