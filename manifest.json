@@ -1,6 +1,6 @@
 {
-    "name": "mya_wordpress",
-    "short_name": "mya_wordpress",
+    "name": "My-A Catalog",
+    "short_name": "My-A Catalog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
